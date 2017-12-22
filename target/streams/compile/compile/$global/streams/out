@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/WebDesignProject/part-1c/app/controllers/models/users/User.java:41:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: variable role[0m
+[0m[[0m[31merror[0m] [0m[0m        return this.role;[0m

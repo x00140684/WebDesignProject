@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_student/WebDesignProject/part-1c/conf/evolutions,/media/sf_student/WebDesignProject/part-1c/target/scala-2.12/classes/evolutions)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_student/WebDesignProject/part-1c/conf/application.conf,/media/sf_student/WebDesignProject/part-1c/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_student/WebDesignProject/part-1c/conf/logback.xml,/media/sf_student/WebDesignProject/part-1c/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_student/WebDesignProject/part-1c/conf/routes,/media/sf_student/WebDesignProject/part-1c/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/media/sf_student/WebDesignProject/part-1c/conf/evolutions/product.sql,/media/sf_student/WebDesignProject/part-1c/target/scala-2.12/classes/evolutions/product.sql)[0m

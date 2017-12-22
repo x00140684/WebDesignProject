@@ -1,0 +1,39 @@
+@()
+<!-- Luqman -->
+@main("Getinvolved") {
+  <style>
+  footer {
+
+	    position: fixed;
+      bottom: 0;
+      width: 100%;
+        }</style>
+ 
+  <div class="container">
+			<div class="col-md-4">
+			<img src="@routes.Assets.versioned("images/s2000banner.jpg")" WIDTH="1000"/>
+			</div>
+			</div>
+            <div class="col-md-4">
+				<p class="text-justify"><h1><img src="@routes.Assets.versioned("images/map.PNG")" class="img-responsive" alt="Thats us!"/>Car meets</h1>
+				<p>Come and meet other car enthusiasts at one of our monthly meet ups.</p>
+			</div>
+			
+			<div class="col-md-4">	
+				<p class="text-justify"><h1><img src="@routes.Assets.versioned("images/organise.jpg")"  HEIGHT="420" WIDTH="420" class="img-responsive"/>Organise a meet up</h1>
+				<p>If you wish to organise a local car meet and promote it, you can do so here.</p>
+				<FORM ACTION="HandleForm.php"> 
+				<INPUT TYPE=Text NAME= "FirstName" value="John" SIZE=20><br>
+				<INPUT TYPE=TEXT NAME= "LastName" value="Doe" SIZE=40><BR>
+                <INPUT TYPE=TEXT NAME="Email" value="Your Email" SIZE=60>
+				<TEXTAREA NAME="Comments" ROWS=5 COLS=40></TEXTAREA><BR>
+                <INPUT TYPE=SUBMIT NAME="SUBMIT" VALUE="Submit!">
+				</FORM>
+				
+			</div>
+			
+			<div class="col-md-4">
+				<p class="text-justify"><h1><img src="@routes.Assets.versioned("images/promote.png")"  HEIGHT="320" WIDTH="300" class="img-responsive"/>Businesses</h1>
+				<p>Advertise your products for hunderds of people to see or sponser a meet up.</p>
+			</div>
+}
